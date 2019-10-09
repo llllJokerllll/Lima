@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<salon_juegos>
+
+    <maquina>
+    <nombre>Tekken</nombre>
+    <precio>0.50€</precio>
+    <descripcion>
+    Nuevo juego de la aclamada serie de videoconsolas "Tekken" de Namco Bandai.
+    </descripcion>
+    </maquina>
+
+    <maquina>
+    <nombre>Fifa 20</nombre>
+    <precio>0.50€</precio>
+    <descripcion>
+    Nuevo juego de la aclamada serie de videoconsolas y PC "Fifa" de EA Sports.
+    </descripcion>
+    </maquina>
+
+</salon_juegos>
