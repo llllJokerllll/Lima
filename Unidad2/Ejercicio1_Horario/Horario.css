@@ -1,0 +1,35 @@
+th, td {
+    text-align: center;
+}
+
+.tabla {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dia {
+    background-color: crimson;
+}
+
+.recreo {
+    background-color: rgb(167, 165, 160);
+}
+
+.prog {
+    background-color: aqua;
+}
+
+.bdatos {
+    background-color: chartreuse;
+}
+
+.code {
+    background-color: blueviolet;
+}
+
+.lima {
+    background-color: darkgoldenrod;
+}
+
+.dcli {
+    background-color: deeppink;
+}
