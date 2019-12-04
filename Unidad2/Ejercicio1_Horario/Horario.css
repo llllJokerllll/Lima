@@ -1,38 +1,22 @@
-* {
-    background-color: rgb(107, 151, 151);
-}
-
-th, td {
-    text-align: center;
-}
-
-[class]:hover {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: #ccc;
-    font-weight: bold;
-    color: yellow;
-    filter: blur(1px);
-    box-shadow: 10px 5px 5px black;
-    text-shadow: 0 1px 0 #ccc,
-                0 2px 0 #c9c9c9,
-                0 3px 0 #bbb, 
-                0 4px 0 #b9b9b9, 
-                0 5px 0 #aaa, 
-                0 6px 1px rgba(0, 0, 0, .1), 
-                0 0 5px rgba(0, 0, 0, .1), 
-                0 1px 3px rgba(0, 0, 0, .3), 
-                0 3px 5px rgba(0, 0, 0, .2), 
-                0 5px 10px rgba(0, 0, 0, .25), 
-                0 10px 10px rgba(0, 0, 0, .2),
-                0 20px 20px rgba(0, 0, 0, .15) ;   
+body {
+    background-image: url('http://www.ateneovalencia.es/wp-content/uploads/2016/07/Clases-de-Informatica.jpg');
+    background-size: cover;
 }
 
 h1 {
     text-align: center;
 }
 
+table, #leyenda {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 2em;
+    margin-left: 5%;
+}
+
 .tabla {
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
     font-size: 2em;
     width: 80%;
     margin-left: 10%;
@@ -66,4 +50,25 @@ h1 {
 
 .dcli {
     background-color: deeppink;
+}
+
+[class]:hover {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: #ccc;
+    font-weight: bold;
+    color: yellow;
+    filter: blur(1px);
+    box-shadow: 10px 5px 5px black;
+    text-shadow: 0 1px 0 #ccc,
+                0 2px 0 #c9c9c9,
+                0 3px 0 #bbb, 
+                0 4px 0 #b9b9b9, 
+                0 5px 0 #aaa, 
+                0 6px 1px rgba(0, 0, 0, .1), 
+                0 0 5px rgba(0, 0, 0, .1), 
+                0 1px 3px rgba(0, 0, 0, .3), 
+                0 3px 5px rgba(0, 0, 0, .2), 
+                0 5px 10px rgba(0, 0, 0, .25), 
+                0 10px 10px rgba(0, 0, 0, .2),
+                0 20px 20px rgba(0, 0, 0, .15) ;   
 }
