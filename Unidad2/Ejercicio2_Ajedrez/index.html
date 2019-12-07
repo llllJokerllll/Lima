@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Problema de Ajedrez</title>
+</head>
+
+<body>
+    <div class="tablero">
+        <div class="fila8">
+        <div class="box_white" id="A8"><img src="piezas/torre negra.png" alt="torre" width="100%" height="100%"></div>
+        <div class="box_black" id="B8"><img src="piezas/caballo negro.png" alt="caballo" width="100%" height="100%"></div>
+        <div class="box_white" id="C8"><img src="piezas/alfil negro.png" alt="alfil" width="100%" height="100%"></div>
+        <div class="box_black" id="D8"><img src="piezas/reina negra.png" alt="reina" width="100%" height="100%"></div>
+        <div class="box_white" id="E8"><img src="piezas/rey negro.png" alt="rey" width="100%" height="100%"></div>
+        <div class="box_black" id="F8"><img src="piezas/alfil negro.png" alt="alfil" width="100%" height="100%"></div>
+        <div class="box_white" id="G8"><img src="piezas/caballo negro.png" alt="caballo" width="100%" height="100%"></div>
+        <div class="box_black" id="H8"><img src="piezas/torre negra.png" alt="torre" width="100%" height="100%"></div></div>
+        <div class="fila7">
+        <div class="box_black" id="A7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="B7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="C7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="D7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="E7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="F7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="G7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="H7"><img src="piezas/peon negro.png" alt="peon" width="100%" height="100%"></div></div>
+        <div class="fila6">
+        <div class="box_white" id="A6"></div>
+        <div class="box_black" id="B6"></div>
+        <div class="box_white" id="C6"></div>
+        <div class="box_black" id="D6"></div>
+        <div class="box_white" id="E6"></div>
+        <div class="box_black" id="F6"></div>
+        <div class="box_white" id="G6"></div>
+        <div class="box_black" id="H6"></div></div>
+        <div class="fila5">
+        <div class="box_black" id="A5"></div>
+        <div class="box_white" id="B5"></div>
+        <div class="box_black" id="C5"></div>
+        <div class="box_white" id="D5"></div>
+        <div class="box_black" id="E5"></div>
+        <div class="box_white" id="F5"></div>
+        <div class="box_black" id="G5"></div>
+        <div class="box_white" id="H5"></div></div>
+        <div class="fila4">
+        <div class="box_white" id="A4"></div>
+        <div class="box_black" id="B4"></div>
+        <div class="box_white" id="C4"></div>
+        <div class="box_black" id="D4"></div>
+        <div class="box_white" id="E4"></div>
+        <div class="box_black" id="F4"></div>
+        <div class="box_white" id="G4"></div>
+        <div class="box_black" id="H4"></div></div>
+        <div class="fila3">
+        <div class="box_black" id="A3"></div>
+        <div class="box_white" id="B3"></div>
+        <div class="box_black" id="C3"></div>
+        <div class="box_white" id="D3"></div>
+        <div class="box_black" id="E3"></div>
+        <div class="box_white" id="F3"></div>
+        <div class="box_black" id="G3"></div>
+        <div class="box_white" id="H3"></div></div>
+        <div class="fila2">
+        <div class="box_white" id="A2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="B2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="C2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="D2"><img src="piezas/peon blanco.png" alt="peom" width="100%" height="100%"></div>
+        <div class="box_white" id="E2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="F2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_white" id="G2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div>
+        <div class="box_black" id="H2"><img src="piezas/peon blanco.png" alt="peon" width="100%" height="100%"></div></div>
+        <div class="fila1">
+        <div class="box_black" id="A1"><img src="piezas/torre blanca.png" alt="torre" width="100%" height="100%"></div>
+        <div class="box_white" id="B1"><img src="piezas/caballo blanco.png" alt="caballo" width="100%" height="100%"></div>
+        <div class="box_black" id="C1"><img src="piezas/alfil blanco.png" alt="alfil" width="100%" height="100%"></div>
+        <div class="box_white" id="D1"><img src="piezas/reina blanca.png" alt="reina" width="100%" height="100%"></div>
+        <div class="box_black" id="E1"><img src="piezas/rey blanco.png" alt="rey" width="100%" height="100%"></div>
+        <div class="box_white" id="F1"><img src="piezas/alfil blanco.png" alt="alfil" width="100%" height="100%"></div>
+        <div class="box_black" id="G1"><img src="piezas/caballo blanco.png" alt="caballo" width="100%" height="100%"></div>
+        <div class="box_white" id="H1"><img src="piezas/torre blanca.png" alt="torre" width="100%" height="100%"></div></div>
+    </div>
+</body>
+
+</html>
