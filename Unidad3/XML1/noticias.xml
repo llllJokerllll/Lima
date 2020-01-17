@@ -55,37 +55,33 @@
             <secundaria>Informática</secundaria>
             <titular>Alertan de una nueva campaña de &apos;phishing&apos; en nombre de Correos</titular>
             <cuerpo xml:space="preserve">
-                <![CDATA[<span>
-                            <p>Varios clientes han recibido SMS en el que se les advierte de que su pedido "no ha podido ser entregado
-                                porque no se han abonado las tasas de aduanas". Se recomienda hacer caso omiso.</p>
-                            <p>Varios clientes de <b>Correos</b> están recibiendo mensajes de <b>'phishing'</b> (suplantación de identidad)
-                                en los que se les advierte de que su pedido "no ha podido ser entregado porque no se han abonado las tasas
-                                de aduanas", y se les pide seguir las instrucciones en un enlace adjunto.</p>
-                            <p>El <b>'phishing'</b> es una técnica que utilizan los ciberdelincuentes que consiste en enviar un correo
+                            Varios clientes han recibido SMS en el que se les advierte de que su pedido &quot;no ha podido ser entregado
+                                porque no se han abonado las tasas de aduanas&quot;. Se recomienda hacer caso omiso.
+                            Varios clientes de &lt;b&gt;Correos&lt;/b&gt; están recibiendo mensajes de &lt;b&gt;&apos;phishing&apos;&lt;/b&gt; (suplantación de identidad)
+                                en los que se les advierte de que su pedido &quot;no ha podido ser entregado porque no se han abonado las tasas
+                                de aduanas&quot;, y se les pide seguir las instrucciones en un enlace adjunto.
+                            El &lt;b&gt;&apos;phishing&apos;&lt;/b&gt; es una técnica que utilizan los ciberdelincuentes que consiste en enviar un correo
                                 electrónico haciéndose pasar por una fuente fiable para que el usuario les proporcione sus datos privados.
-                            </p>
-                            <p>El canal de <b>Atención al Cliente de Correos</b> en Twitter ha confirmado la campaña de <b>'phishing'</b> y
-                                ha
-                                solicitado
-                                a sus clientes que <b>hagan caso omiso</b> a las indicaciones y no faciliten sus datos personales.</p>
-                            <p><cite>Hola, en efecto es una ALERTA DE PHISHING! Algunos de nuestros clientes están recibiendo estos SMS
-                                    suplantando la identidad de <a
-                                        href="https://twitter.com/hashtag/Correos?src=hash&ref_src=twsrc%5Etfw">#Correos</a>. Por favor, no
-                                    pinches en ningún enlace, no des tus datos y elimina
-                                    el mensaje. <a href="https://twitter.com/hashtag/NoPiques?src=hash&ref_src=twsrc%5Etfw">#NoPiques</a>.
-                                    Un saludo! <br>
+                            El canal de &lt;b&gt;Atención al Cliente de Correos&lt;/b&gt; en Twitter ha confirmado la campaña de &lt;b&gt;&apos;phishing&apos;&lt;/b&gt; y
+                                ha solicitado a sus clientes que &lt;b&gt;hagan caso omiso&lt;/b&gt; a las indicaciones y no faciliten sus datos personales.
 
-                                    — CorreosAtiende (@CorreosAtiende) October 29, 2019</cite></p>
-                            <p>El propio canal de Twitter de Correos advirtió <u>a principios de septiembre</u> del fraude.</p>
-                            <p><cite>ALERTA DE PHISING! <br>
-                                    Algunos de nuestros clientes están recibiendo estos SMS suplantando la identidad de <a
-                                        href="https://twitter.com/hashtag/Correos?src=hash&ref_src=twsrc%5Etfw">#Correos</a>. Por favor,
-                                    no pinches ningún enlace, no des tus datos y elimina el mensaje. <a
-                                        href="https://twitter.com/hashtag/NoPiques?src=hash&ref_src=twsrc%5Etfw">#NoPiques</a><a
-                                        href="https://t.co/bShzpyFuuJ">pic.twitter.com/bShzpyFuuJ</a> <br>
+                            &lt;cite&gt;Hola, en efecto es una ALERTA DE PHISHING! Algunos de nuestros clientes están recibiendo estos SMS
+                                    suplantando la identidad de &lt;a href=&quot;https://twitter.com/hashtag/Correos?src=hash&amp;ref_src=twsrc%5Etfw&quot;&gt;#Correos&lt;/a&gt;. 
+                                    Por favor, no pinches en ningún enlace, no des tus datos y elimina
+                                    el mensaje. &lt;a href=&quot;https://twitter.com/hashtag/NoPiques?src=hash&amp;ref_src=twsrc%5Etfw&quot;&gt;#NoPiques&lt;/a&gt;.
+                                    Un saludo!
 
-                                    — Correos (@Correos) September 6, 2019</cite></p>
-                        </span>]]>
+                                    — CorreosAtiende (@CorreosAtiende) October 29, 2019&lt;/cite&gt;
+                            El propio canal de Twitter de Correos advirtió &lt;u&gt;a principios de septiembre&lt;/u&gt; del fraude.
+                            &lt;cite&gt;ALERTA DE PHISING!
+
+                                    Algunos de nuestros clientes están recibiendo estos SMS suplantando la identidad de &lt;a
+                                        href=&quot;https://twitter.com/hashtag/Correos?src=hash&amp;ref_src=twsrc%5Etfw&quot;&gt;#Correos&lt;/a&gt;. Por favor,
+                                    no pinches ningún enlace, no des tus datos y elimina el mensaje. &lt;a
+                                        href=&quot;https://twitter.com/hashtag/NoPiques?src=hash&amp;ref_src=twsrc%5Etfw&quot;&gt;#NoPiques&lt;/a&gt;&lt;a
+                                        href=&quot;https://t.co/bShzpyFuuJ&quot;&gt;pic.twitter.com/bShzpyFuuJ&lt;/a&gt;
+
+                                    — Correos (@Correos) September 6, 2019&lt;/cite&gt;
             </cuerpo>
         </seccion>
     </noticia2>
