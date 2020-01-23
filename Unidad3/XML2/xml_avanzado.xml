@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<engloba xmlns="http://limanews.com/">
+<limanews>
     <noticias xmlns="http://limanews.com/noticias/">
         <noticia xmlns="http://limanews.com/noticias/noticia1/" título="Kipchoge: &quot;Lo importante es el atleta, las zapatillas no te hacen correr rápido&quot;" xml:lang="es">
             <seccion>
@@ -235,4 +235,4 @@
             </receta_pasos>
         </receta>
     </recetas>
-</engloba>
+</limanews>
