@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<recetas>
-    <receta1 título="Cuscús negro con merluza" xml:lang="es">
-        <receta1_ing>
-            <ingredientes>150g de cuscús</ingredientes>
-            <ingredientes>1 vaso de caldo de pescado</ingredientes>
-            <ingredientes>1 zanahoria</ingredientes>
-            <ingredientes>1 diente de ajo</ingredientes>
-            <ingredientes>1 cebolla mediana</ingredientes>
-            <ingredientes>1 bolsita de tinta de calamar</ingredientes>
-            <ingredientes>1 corte de merluza por persona (o cualquier otro pescado blanco)</ingredientes>
-            <ingredientes>Aceite de oliva, sal y mantequilla</ingredientes>
-        </receta1_ing>
-        <receta1_pasos>
-            <pasos>En una cazuela se cuecen a fuego lento las verduras cortadas en brunoise.</pasos>
-            <pasos>Posteriormente se añade el cuscús para que se tueste un poco y luego se vierte el caldo de pescado con la tinta.</pasos>
-            <pasos>Se deja cocer hasta que el cuscús quede hecho, alrededor de unos 5-10 minutos.</pasos>
-            <pasos>Se puede añadir una cucharada de mantequilla para hacerlo más sabroso y que los grandes queden separados.</pasos>
-            <pasos>Emplatamos haciendo una cama de cuscús negro y colocamos encima el pescado hecho a la plancha.</pasos>
-        </receta1_pasos>
-    </receta1>
-    <receta2 título="Taboulé de pasas y piñones" xml:lang="es">
-        <receta2_ing>
-            <ingredientes>300g de cuscús</ingredientes>
-            <ingredientes>Tomates cherry</ingredientes>
-            <ingredientes>2 cebolletas</ingredientes>
-            <ingredientes>Jugo de limón</ingredientes>
-            <ingredientes>1 puñado de pasas sultana</ingredientes>
-            <ingredientes>1 puñado de piñones tostados</ingredientes>
-            <ingredientes>Aceite de oliva</ingredientes>
-            <ingredientes>Perejil y comino</ingredientes>
-        </receta2_ing>
-        <receta2_pasos>
-            <pasos>Cocemos el cuscús con la cantidad de agua recomendada según las indicaciones del fabricante.</pasos>
-            <pasos>En el agua de cobre se pueden añadir las pasas para que queden más blandas y lograremos más gusto.</pasos>
-            <pasos>Picar la cebolla.</pasos>
-            <pasos>Tostar los piñones.</pasos>
-            <pasos>Partir los tomates.</pasos>
-            <pasos>Prepara la ensalada mezclando todos los ingredientes, añadiendo el aceite y el jugo de limón.</pasos>
-        </receta2_pasos>
-    </receta2>
-    <receta3 título="Tomates rellenos de cuscús" xml:lang="es">
-        <receta3_ing>
-            <ingredientes>1 tomate grande por persona</ingredientes>
-            <ingredientes>15g de cuscús previamente cocido por persona</ingredientes>
-            <ingredientes>1 diente de ajo</ingredientes>
-            <ingredientes>1 cebolla grande</ingredientes>
-            <ingredientes>Aceite de oliva</ingredientes>
-            <ingredientes>Orégano, albahaca, sal y pimienta negra</ingredientes>
-        </receta3_ing>
-        <receta3_pasos>
-            <pasos>Picamos la cebolla y el ajo bien pequeño.</pasos>
-            <pasos>Vaciamos los tomates y reservamos la carne y el jugo.</pasos>
-            <pasos>Mezclamos en un bol todos los ingredientes (como las especies y el tomate).</pasos>
-            <pasos>Llenamos de nuevo los tomates con la mezcla, salpimentamos, regamos con aceite.</pasos>
-            <pasos>Se cuece en el horno unos 40 minutos previamente habiéndolo calentado a 200Cº.</pasos>
-        </receta3_pasos>
-    </receta3>
-    <receta4 título="Rollitos de pizza" xml:lang="es">
-        <receta4_ing>
-            <ingredientes>300g de masa "Pizza proteica"</ingredientes>
-            <ingredientes>300ml de agua tibia</ingredientes>
-            <ingredientes>10g de levadura fresca</ingredientes>
-            <ingredientes>200g de salsa de tomate</ingredientes>
-            <ingredientes>100g de mozzarella rallada</ingredientes>
-            <ingredientes>100g de jamón cocido</ingredientes>
-            <ingredientes>100g de champiñones</ingredientes>
-            <ingredientes>Albahaca fresca</ingredientes>
-        </receta4_ing>
-        <receta4_pasos>
-            <pasos>Añade el preparado para pizza en un bol y deja un hueco en el centro para introducir el agua. Añádele a ello la levadura y haz que se mezcle. Dejar reposar durante 10 min.</pasos>
-            <pasos>Transforma todo ello en una masa lisa. Ve precalentando el horno a 180 grados.</pasos>
-            <pasos>Extiende la masa de pizza sobre una superficie plana espolvoreada con harina y dale la forma de un rectángulo. Añádele salsa de tomate por encima y después el resto de añadidos.</pasos>
-            <pasos>Enrollar la masa por el lado más largo y cortar en lonchas de 2-3 cm de grosor.</pasos>
-            <pasos>Depositar los rollitos sobre papel de hornear en una bandeja de horno y hornear durante 20-25 min.</pasos>
-        </receta4_pasos>
-    </receta4>
-</recetas>
+<recetas xmlns="http://limanews.com/recetas/">
+        <receta xmlns="http://limanews.com/recetas/receta1/" título="Cuscús negro con merluza" xml:lang="es">
+            <receta_ing>
+                <ingredientes>150g de cuscús</ingredientes>
+                <ingredientes>1 vaso de caldo de pescado</ingredientes>
+                <ingredientes>1 zanahoria</ingredientes>
+                <ingredientes>1 diente de ajo</ingredientes>
+                <ingredientes>1 cebolla mediana</ingredientes>
+                <ingredientes>1 bolsita de tinta de calamar</ingredientes>
+                <ingredientes>1 corte de merluza por persona (o cualquier otro pescado blanco)</ingredientes>
+                <ingredientes>Aceite de oliva, sal y mantequilla</ingredientes>
+            </receta_ing>
+            <receta_pasos>
+                <pasos>En una cazuela se cuecen a fuego lento las verduras cortadas en brunoise.</pasos>
+                <pasos>Posteriormente se añade el cuscús para que se tueste un poco y luego se vierte el caldo de pescado con la tinta.</pasos>
+                <pasos>Se deja cocer hasta que el cuscús quede hecho, alrededor de unos 5-10 minutos.</pasos>
+                <pasos>Se puede añadir una cucharada de mantequilla para hacerlo más sabroso y que los grandes queden separados.</pasos>
+                <pasos>Emplatamos haciendo una cama de cuscús negro y colocamos encima el pescado hecho a la plancha.</pasos>
+            </receta_pasos>
+        </receta>
+        <receta xmlns="http://limanews.com/recetas/receta2/" título="Taboulé de pasas y piñones" xml:lang="es">
+            <receta_ing>
+                <ingredientes>300g de cuscús</ingredientes>
+                <ingredientes>Tomates cherry</ingredientes>
+                <ingredientes>2 cebolletas</ingredientes>
+                <ingredientes>Jugo de limón</ingredientes>
+                <ingredientes>1 puñado de pasas sultana</ingredientes>
+                <ingredientes>1 puñado de piñones tostados</ingredientes>
+                <ingredientes>Aceite de oliva</ingredientes>
+                <ingredientes>Perejil y comino</ingredientes>
+            </receta_ing>
+            <receta_pasos>
+                <pasos>Cocemos el cuscús con la cantidad de agua recomendada según las indicaciones del fabricante.</pasos>
+                <pasos>En el agua de cobre se pueden añadir las pasas para que queden más blandas y lograremos más gusto.</pasos>
+                <pasos>Picar la cebolla.</pasos>
+                <pasos>Tostar los piñones.</pasos>
+                <pasos>Partir los tomates.</pasos>
+                <pasos>Prepara la ensalada mezclando todos los ingredientes, añadiendo el aceite y el jugo de limón.</pasos>
+            </receta_pasos>
+        </receta>
+        <receta xmlns="http://limanews.com/recetas/receta3/" título="Tomates rellenos de cuscús" xml:lang="es">
+            <receta_ing>
+                <ingredientes>1 tomate grande por persona</ingredientes>
+                <ingredientes>15g de cuscús previamente cocido por persona</ingredientes>
+                <ingredientes>1 diente de ajo</ingredientes>
+                <ingredientes>1 cebolla grande</ingredientes>
+                <ingredientes>Aceite de oliva</ingredientes>
+                <ingredientes>Orégano, albahaca, sal y pimienta negra</ingredientes>
+            </receta_ing>
+            <receta_pasos>
+                <pasos>Picamos la cebolla y el ajo bien pequeño.</pasos>
+                <pasos>Vaciamos los tomates y reservamos la carne y el jugo.</pasos>
+                <pasos>Mezclamos en un bol todos los ingredientes (como las especies y el tomate).</pasos>
+                <pasos>Llenamos de nuevo los tomates con la mezcla, salpimentamos, regamos con aceite.</pasos>
+                <pasos>Se cuece en el horno unos 40 minutos previamente habiéndolo calentado a 200Cº.</pasos>
+            </receta_pasos>
+        </receta>
+        <receta xmlns="http://limanews.com/recetas/receta4/" título="Rollitos de pizza" xml:lang="es">
+            <receta_ing>
+                <ingredientes>300g de masa "Pizza proteica"</ingredientes>
+                <ingredientes>300ml de agua tibia</ingredientes>
+                <ingredientes>10g de levadura fresca</ingredientes>
+                <ingredientes>200g de salsa de tomate</ingredientes>
+                <ingredientes>100g de mozzarella rallada</ingredientes>
+                <ingredientes>100g de jamón cocido</ingredientes>
+                <ingredientes>100g de champiñones</ingredientes>
+                <ingredientes>Albahaca fresca</ingredientes>
+            </receta_ing>
+            <receta_pasos>
+                <pasos>Añade el preparado para pizza en un bol y deja un hueco en el centro para introducir el agua. Añádele a ello la levadura y haz que se mezcle. Dejar reposar durante 10 min.</pasos>
+                <pasos>Transforma todo ello en una masa lisa. Ve precalentando el horno a 180 grados.</pasos>
+                <pasos>Extiende la masa de pizza sobre una superficie plana espolvoreada con harina y dale la forma de un rectángulo. Añádele salsa de tomate por encima y después el resto de añadidos.</pasos>
+                <pasos>Enrollar la masa por el lado más largo y cortar en lonchas de 2-3 cm de grosor.</pasos>
+                <pasos>Depositar los rollitos sobre papel de hornear en una bandeja de horno y hornear durante 20-25 min.</pasos>
+            </receta_pasos>
+        </receta>
+    </recetas>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <noticias xmlns="http://limanews.com/noticias/">
-    <noticia1 xmlns="http://limanews.com/noticias/noticia1" título="Kipchoge: &quot;Lo importante es el atleta, las zapatillas no te hacen correr rápido&quot;" xml:lang="es">
+    <noticia xmlns="http://limanews.com/noticias/noticia1" título="Kipchoge: &quot;Lo importante es el atleta, las zapatillas no te hacen correr rápido&quot;" xml:lang="es">
         <seccion>
             <principal>Deporte internacional</principal>
             <secundaria>Atletismo</secundaria>
@@ -48,8 +48,8 @@
                         </span>]]>
             </cuerpo>
         </seccion>
-    </noticia1>
-    <noticia2 xmlns="http://limanews.com/noticias/noticia2" título="Nueva alerta sobre ataque de ingenieria social" xml:lang="es">
+    </noticia>
+    <noticia xmlns="http://limanews.com/noticias/noticia2" título="Nueva alerta sobre ataque de ingenieria social" xml:lang="es">
         <seccion>
             <principal>Sucesos</principal>
             <secundaria>Informática</secundaria>
@@ -84,8 +84,8 @@
                                     — Correos (@Correos) September 6, 2019&lt;/cite&gt;
             </cuerpo>
         </seccion>
-    </noticia2>
-    <noticia3 xmlns="http://limanews.com/noticias/noticia3" título="Alejandro Fernández: un pentacampeón &quot;feliz&quot;" xml:lang="es">
+    </noticia>
+    <noticia xmlns="http://limanews.com/noticias/noticia3" título="Alejandro Fernández: un pentacampeón &quot;feliz&quot;" xml:lang="es">
         <seccion>
             <principal>Deporte local</principal>
             <secundaria>San Martiño 2019</secundaria>
@@ -123,8 +123,8 @@
                         </span>]]>
             </cuerpo>
         </seccion>
-    </noticia3>
-    <noticia4 xmlns="http://limanews.com/noticias/noticia4" título="El COB presenta sus abonos para la segunda vuelta" xml:lang="es">
+    </noticia>
+    <noticia xmlns="http://limanews.com/noticias/noticia4" título="El COB presenta sus abonos para la segunda vuelta" xml:lang="es">
         <seccion>
             <principal>Deporte Nacional</principal>
             <secundaria>Baloncesto</secundaria>
@@ -155,5 +155,5 @@
                 El abono contemplará todo lo que queda de liga regular y, si el equipo se clasifica para los playoff, estos también estarán incluidos.
             </cuerpo>
         </seccion>
-    </noticia4>
+    </noticia>
 </noticias>
