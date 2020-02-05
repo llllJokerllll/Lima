@@ -1,0 +1,3 @@
+//@nome
+//equipos/máquina//gravadora[@tipo="DVD"]/../../@nome
+//role/../OS/text()
