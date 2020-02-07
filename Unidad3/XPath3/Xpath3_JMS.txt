@@ -1,0 +1,10 @@
+//disco[@tecnoloxía="SCSI"]
+//config[IP="192.168.10.45"]/OS
+//procesador[@marca="AMD"]/@velocidade
+//máquina[@nome="COPERNICO"]/config//text()
+//máquina[hardware[tipo="Semitorre"]][config[OS="Windows XP"]]
+//máquina/hardware[memoria[@tecnoloxía="DDR2"]=4]/fabricante
+//máquina[hardware[procesador[@num_nucleos]]]/config/OS
+//máquina[hardware[memoria[@tecnoloxía="DDR2"]]]/@nome
+//máquina[hardware[procesador[@marca="Intel"]][gravadora[@tipo="DVD"]]]/@nome
+//config[gateway]
