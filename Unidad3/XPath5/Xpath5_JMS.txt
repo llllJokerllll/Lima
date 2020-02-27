@@ -1,0 +1,12 @@
+//comment()
+//película[título="Leaving Las Vegas"]//comment()
+//película[xénero="Drama"]
+//actor[sexo="muller"]
+//*[string-length() > 0]/name()
+//película[título/text()=títuloorixinal/text()]
+//actor[nome="Elisabeth Shue"]/@id
+//película[actúa/@id=51]/título
+//película[actúa/@id = //actor[nome="Elisabeth Shue"]/@id]/título
+//película[last()]/título
+sum(//importe[@moneda="dólar"])
+sum(//importe[@moneda="dólar"])div(1.4) + sum(//importe[@moneda="euro"])

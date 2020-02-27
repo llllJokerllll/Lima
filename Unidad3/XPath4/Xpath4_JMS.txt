@@ -1,0 +1,15 @@
+//máquina[starts-with(@nome,'PC')]
+//máquina[hardware[count(disco)>1]]/@nome
+sum(//memoria)
+sum(//disco[@tecnoloxía="SCSI"]/@capacidade)
+//máquina[hardware[memoria]]/@nome
+//máquina[config[OS[contains(text(),"Windows")]]][hardware[gravadora[@tipo="DVD"]]]
+//máquina[config[count(OS)=0]]
+//máquina[hardware[count(disco)>1]]/concat("nome=",@nome," OS=",config/OS)
+//config[IP][count(gateway)=0]
+//*[string-length()=0]
+//config[contains(IP,"192.168.10")]/IP
+//hardware[procesador[@num_nucleos>1]][memoria>2]
+//máquina[hardware[count(disco[capacidade])>1000]]/@nome
+//máquina[hardware[disco[@capacidade<80]]]/@nome
+
