@@ -11,14 +11,14 @@ encoding="utf-8"
 </xsl:attribute>
 </xsl:element>
 </xsl:template>
+<xsl:text>
+</xsl:text>
 <xsl:template match="//produtos">
 <xsl:element name="Número de productos: "/>
+<xsl:for-each select="//produtos">
 <xsl:attribute name="{count(produto)}"/>
+</xsl:for-each>
 </xsl:attribute>
 </xsl:element>
   </xsl:template>
 </xsl:stylesheet>
-
-<P>Número de productos: <xsl:for-each select="//produtos">
-    <xsl:value-of select="count(produto)" />
-    </xsl:for-each></P> 
