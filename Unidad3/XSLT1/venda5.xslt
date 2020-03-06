@@ -8,9 +8,9 @@ encoding="utf-8"
   <xsl:template match="cliente">
     <xsl:for-each select="//produto">
 <xsl:text>Producto de la familia </xsl:text> 
-      <xsl:substring((value-of select="@cod"),1,4) />
+      <xsl:value-of  select="substring(@cod,1,4)" />
 <xsl:text> con código </xsl:text>
-      <xsl:value-of select="@cod" />
+      <xsl:value-of select="substring(@cod,5)" />
 <xsl:text> para el cliente de código </xsl:text>
 <xsl:value-of select="//cliente/@cod" />
 <xsl:text>
