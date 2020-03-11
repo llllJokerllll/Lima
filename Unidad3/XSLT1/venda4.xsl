@@ -8,7 +8,7 @@ encoding="utf-8"
   <xsl:template match="//cliente">
     <HTML> 
   <HEAD> 
-    <TITLE>Cliente CL09284</TITLE> 
+    <TITLE>Cliente <xsl:value-of select="@cod"/></TITLE> 
   </HEAD> 
   <BODY>
 <P>Cliente: <xsl:value-of select="@cod"/></P>
