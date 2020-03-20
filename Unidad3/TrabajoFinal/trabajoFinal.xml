@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trabajoFinal.xsl"?>
+<vehiculos>
+  <coche nome="S2000">
+    <mecanica>
+      <tipo>Gasolina</tipo>
+      <fabricante>Honda</fabricante>
+      <motor potencia="241" par_maximo="208" velocidades="6">F20c</motor>
+      <cilindrada num_cilindros="4">1997</cilindrada>
+      <consumo tecnoloxía="inyeccion indirecta" capacidade="50"/>
+      <compresion tipo="11 a 1"/>
+    </mecanica>
+    <chasis>
+      <num_plazas>2</num_plazas>
+      <peso>1260</peso>
+      <batalla>2400</batalla>
+    </chasis>
+  </coche>
+  <coche nome="Z4">
+    <mecanica>
+      <tipo>Gasolina</tipo>
+      <fabricante>BMW</fabricante>
+      <motor potencia="340" par_maximo="500" velocidades="8">M40i</motor>
+      <cilindrada num_cilindros="6">2998</cilindrada>
+      <consumo tecnoloxía="inyeccion directa" capacidade="52"/>
+      <compresion tipo="11 a 1"/>
+    </mecanica>
+    <chasis>
+      <num_plazas>2</num_plazas>
+      <peso>1610</peso>
+      <batalla>2470</batalla>
+    </chasis>
+  </coche>
+  <coche nome="Supra">
+    <mecanica>
+      <tipo>Gasolina</tipo>
+      <fabricante>Toyota</fabricante>
+      <motor potencia="340" par_maximo="500" velocidades="8">GR</motor>
+      <cilindrada num_cilindros="6">2998</cilindrada>
+      <consumo tecnoloxía="inyeccion directa" capacidade="52"/>
+      <compresion tipo="11 a 1"/>
+    </mecanica>
+    <chasis>
+      <num_plazas>2</num_plazas>
+      <peso>1570</peso>
+      <batalla>2470</batalla>
+    </chasis>
+  </coche>
+  <coche nome="X5">
+    <mecanica>
+      <tipo>Diesel</tipo>
+      <fabricante>BMW</fabricante>
+      <motor potencia="400" par_maximo="760" velocidades="8">M50d</motor>
+      <cilindrada num_cilindros="6">2993</cilindrada>
+      <consumo tecnoloxía="inyeccion directa" capacidade="80"/>
+      <compresion tipo="16 a 1"/>
+    </mecanica>
+    <chasis>
+      <num_plazas>5</num_plazas>
+      <peso>2350</peso>
+      <batalla>2975</batalla>
+    </chasis>
+  </coche>
+  <coche nome="Berlina">
+    <mecanica>
+      <tipo>Diesel</tipo>
+      <fabricante>Mercedes</fabricante>
+      <motor potencia="170" par_maximo="400" velocidades="6">C220d</motor>
+      <cilindrada num_cilindros="4">2143</cilindrada>
+      <consumo tecnoloxía="inyeccion directa" capacidade="66"/>
+      <compresion tipo="16,2 a 1"/>
+    </mecanica>
+    <chasis>
+      <num_plazas>5</num_plazas>
+      <peso>1550</peso>
+      <batalla>2840</batalla>
+    </chasis>
+  </coche>
+</vehiculos>

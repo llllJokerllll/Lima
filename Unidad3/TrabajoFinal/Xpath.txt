@@ -1,0 +1,3 @@
+//cilindrada[@num_cilindros=4]
+//motor[@potencia>241]
+//chasis[peso<= 1500]
