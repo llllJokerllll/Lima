@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        #contenedor{
+          background: #CCC;
+          height: 600px;
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: flex-start;
+          align-items:flex-end;
+        }
+        .item {
+          margin: 10px;
+          width: 100px;
+          height: 100px;
+          background: red;
+          color: white;
+          text-align: center;
+        }
+        .item-1 {
+          align-self: center;
+        }
+        .item-5 {
+          align-self: flex-start;
+          order: ;
+        }
+      </style>
+            
+</head>
+<body>
+  <div id="contenedor"> <!-- contenedor flex -->
+    <div class="item item-1">1</div> <!-- cada uno de los ítems flexibles -->
+    <div class="item item-2">2</div>
+    <div class="item item-3">3</div>
+    <div class="item item-4">4</div>
+    <div class="item item-5">5</div>
+    <div class="item item-6">6</div>
+    <div class="item item-7">7</div>
+    <div class="item item-8">8</div>
+    <div class="item item-9">9</div>
+  </div>
+</body>
+</html>

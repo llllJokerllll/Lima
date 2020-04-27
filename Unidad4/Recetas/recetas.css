@@ -1,0 +1,86 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: stretch;
+    align-items: flex-start;
+    background-color: lightcoral;
+    height: 100%;
+}
+
+.flex-item {
+    margin: 10px;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    text-align: left;
+    flex-basis: 200px;
+}
+
+.flex-item:nth-child(1) {
+    order: 1;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 100%;
+    height: auto;
+}
+
+.flex-item:nth-child(2) {
+    order: 2;
+    flex: 0 0 auto;
+    align-self: auto;
+}
+
+.flex-item:nth-child(3) {
+    order: 3;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 70%;
+}
+
+.flex-item:nth-child(4) {
+    order: 4;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
+
+.flex-item:nth-child(5) {
+    order: 5;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
+
+.flex-item:nth-child(6) {
+    order: 6;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
+
+.flex-item:nth-child(7) {
+    order: 7;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
+
+.flex-item:nth-child(8) {
+    order: 8;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
+
+.flex-item:nth-child(9) {
+    order: 9;
+    flex: 0 1 auto;
+    align-self: auto;
+    width: 30%;
+}
